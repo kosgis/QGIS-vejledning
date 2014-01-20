@@ -7,8 +7,8 @@ På wiki siderne er forskellige emner og øvelser beskrevet.
 
 Hvis du er helt ny kan du starte med at løbe nogle af øvelserne igennem.
 
-Quick start guide https://github.com/kosgis/QGIS-vejledning/wiki/Quick-start-guide
-Print guide
-Open data
-Tegningsguide
+Quick start guide https://github.com/kosgis/QGIS-vejledning/wiki/Quick-start-guide  
+Print guide  
+Open data  
+Tegningsguide  
 
