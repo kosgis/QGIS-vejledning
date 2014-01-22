@@ -1,7 +1,7 @@
 QGIS vejledning
 ===============
 
-Øvelser og vejledning til at komme igang med QGIS - På dansk alle naturligvis frie og open source
+Øvelser og vejledning til at komme igang med QGIS - Alle på dansk naturligvis frie og open source.
 
 På wiki siderne er forskellige emner og øvelser beskrevet. 
 
