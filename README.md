@@ -10,6 +10,6 @@ Gå til [wiki](../../wiki/Home)
 
 Hvis du er helt ny kan du starte med at løbe nogle af øvelserne igennem.
 
-Start fx med [Quick start guide] (../../wiki/Quick-start-guide)  
+Start fx med [Quick start guide] (../../wiki/QGIS-Quick-start-guide)  
 
 
