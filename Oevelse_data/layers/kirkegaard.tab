@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 6
+    ogr_fid Integer (10) ;
+    objektmeta Char (20) ;
+    fot_id Decimal (12,0) ;
+    fra_dato_f Char (19) ;
+    geometri_s Char (7) ;
+    objekt_sta Char (12) ;
