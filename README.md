@@ -13,3 +13,4 @@ Hvis du er helt ny kan du starte med at løbe nogle af øvelserne igennem.
 Start fx med [Quick start guide] (../../wiki/QGIS-Quick-start-guide)  
 
 
+>Alle øvelsesdata kan frit benyttes til øvelserne, men alle andre rettigheder tilhører Frederiksberg Kommune.
